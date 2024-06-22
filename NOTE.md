@@ -1,4 +1,4 @@
-# Brainstorm
+# App notes
 
 ## Modules
 

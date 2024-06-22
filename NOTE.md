@@ -12,6 +12,10 @@
 - or is there a way to connect the cli to the system's speaker hardware? Yes. mpg123 does that
 - ways to make it work seamlessly
 
+## TODO
+
+- save the audio files in a file server like cloudinary then the backend service gets the audio from there
+
 ## User story
 
 - the frontend makes an ssh request to the backend service

@@ -8,8 +8,8 @@
 
 ## Things to note
 
-- is there a way to play sound in the cli? Yes, we will use mpg123 (a cli package)
-- or is there a way to connect the cli to the system's speaker hardware? Yes. mpg123 does that
+- is there a way to play sound in the cli? Yes
+- or is there a way to connect the cli to the system's speaker hardware? Yes. we have to get one
 - ways to make it work seamlessly
 
 ## TODO
@@ -21,6 +21,6 @@
 - the frontend makes an ssh request to the backend service
 - the backend service receives the ssh request from the frontend and responds with links to the audio files
 - the frontend receives the response and displays on the cli
-- the frontend makes a request to play a selected audio using the mpg123
+- the frontend makes a request to play a selected audio
 - the frontend can pause or stop the audio
 - the frontend can play next or prev audio
